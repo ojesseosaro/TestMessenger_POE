@@ -1,0 +1,79 @@
+[
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "998c68ff-13fe-44e9-947e-df657d6d9903",
+        "messageHash": "99:0:JACKSON",
+        "body": "Jackson"
+    },
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "dbcd148a-16c8-4c69-80d8-6e7362d3097d",
+        "messageHash": "db:1:KINGS,PEOPLE",
+        "body": "Kings, people"
+    },
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "cdaf8772-2ff4-41a2-b3e7-324bf45d77dc",
+        "messageHash": "cd:1:HELLO,JACKSON",
+        "body": "Hello, Jackson"
+    },
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "b28db2fd-fa08-4733-a227-1cb829bd77ae",
+        "messageHash": "b2:4:PEOPLECANBESOGREADY",
+        "body": "People can be so gready"
+    },
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "5b430863-6c0f-477a-9178-261572780fde",
+        "messageHash": "5b:3:THANKYOU,SOMUCH",
+        "body": "Thank you, so much"
+    },
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "93357c6d-00e3-496f-9d3e-973f20dd5439",
+        "messageHash": "93:3:XENOPHOBIAANDTRIBALISM",
+        "body": "Xenophobia and Tribalism "
+    },
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "0201478888",
+        "messageHash": "02:0:HELLO",
+        "body": "Hello"
+    },
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "0872448430",
+        "messageHash": "08:1:USESLESSTHINGS",
+        "body": "usesless things"
+    },
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "0696395539",
+        "messageHash": "06:2:HUGEPEOPLEEVERYWHERE",
+        "body": "huge people everywhere"
+    },
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "0403994399",
+        "messageHash": "04:5:DANISGOINGTOTHESTORE",
+        "body": "dan is going to the store"
+    },
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "0798025566",
+        "messageHash": "07:0:GENIUS",
+        "body": "Genius"
+    }
+]

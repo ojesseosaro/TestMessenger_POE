@@ -1,0 +1,44 @@
+[
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "abd7b7c8-3af4-4fe7-80da-29d828361535",
+        "messageHash": "ab:1:HELLO,KINGS",
+        "body": "Hello, Kings"
+    },
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "ff92adad-4533-45df-bada-ff753e34e8ee",
+        "messageHash": "ff:4:OKAY,LETSGOTOCAFFEE",
+        "body": "Okay, lets go to Caffee"
+    },
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "91064a66-05cb-4b10-9e9b-ff72dd45ab9f",
+        "messageHash": "91:1:HELLO,MANY",
+        "body": "Hello, many"
+    },
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "c9b3a4a1-5585-477d-9390-191f731a486a",
+        "messageHash": "c9:4:CODINGCANBEVERYFUN",
+        "body": "Coding can be very fun"
+    },
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "0607548126",
+        "messageHash": "06:0:JAKSON",
+        "body": "Jakson"
+    },
+    {
+        "sender": "+27797856486",
+        "recipient": "+27797856486",
+        "messageID": "0835075418",
+        "messageHash": "08:3:KINGITISWELL",
+        "body": "king it is well"
+    }
+]
